@@ -2,11 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wesleyhon.com</id>
     <title>遗忘诗行</title>
-    <updated>2019-07-14T12:51:52.108Z</updated>
+    <updated>2019-07-14T12:53:47.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.wesleyhon.com"/>
     <link rel="self" href="https://www.wesleyhon.com/atom.xml"/>
-    <subtitle>Calm, fitter, healthier and more productive &lt;br/&gt; A pig in a cage on antibiotics.</subtitle>
+    <subtitle>Calm, fitter, healthier and more productive.
+&lt;br /&gt;A pig in a cage on antibiotics.</subtitle>
     <logo>https://www.wesleyhon.com/images/avatar.png</logo>
     <icon>https://www.wesleyhon.com/favicon.ico</icon>
     <rights>All rights reserved 2019, 遗忘诗行</rights>
