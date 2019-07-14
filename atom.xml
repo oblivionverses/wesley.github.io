@@ -2,25 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wesleyhon.com</id>
     <title>遗忘诗行</title>
-    <updated>2019-07-13T16:03:13.107Z</updated>
+    <updated>2019-07-14T12:50:26.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.wesleyhon.com"/>
     <link rel="self" href="https://www.wesleyhon.com/atom.xml"/>
-    <subtitle>&lt;p align=&quot;center&quot;&gt; Calm, fitter, healthier and more productive &lt;br&gt; A pig in a cage on antibiotics &lt;/p&gt;</subtitle>
+    <subtitle>Calm, fitter, healthier and more productive &lt;br&gt; A pig in a cage on antibiotics.</subtitle>
     <logo>https://www.wesleyhon.com/images/avatar.png</logo>
     <icon>https://www.wesleyhon.com/favicon.ico</icon>
     <rights>All rights reserved 2019, 遗忘诗行</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://www.wesleyhon.com/post/hello-gridea</id>
-        <link href="https://www.wesleyhon.com/post/hello-gridea">
+        <title type="html"><![CDATA[「Vol.01」随手摘记]]></title>
+        <id>https://www.wesleyhon.com/post/vol01</id>
+        <link href="https://www.wesleyhon.com/post/vol01">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <updated>2019-07-13T16:04:31.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="爱的艺术-弗洛姆">「爱的艺术」- 弗洛姆</h1>
+<ul>
+<li>翻译佶屈聱牙，故弄玄虚。</li>
+<li><a href="https://www.goodreads.com/book/show/14142.The_Art_of_Loving">Erich Fromm - The Art of Loving</a></li>
+</ul>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<h1 id="爱的艺术-弗洛姆">「爱的艺术」- 弗洛姆</h1>
+<ul>
+<li>翻译佶屈聱牙，故弄玄虚。</li>
+<li><a href="https://www.goodreads.com/book/show/14142.The_Art_of_Loving">Erich Fromm - The Art of Loving</a></li>
+</ul>
 ]]></content>
     </entry>
 </feed>
