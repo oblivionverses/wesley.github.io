@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wesleyhon.com</id>
     <title>遗忘诗行</title>
-    <updated>2019-07-14T13:42:51.699Z</updated>
+    <updated>2019-07-17T03:09:01.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.wesleyhon.com"/>
     <link rel="self" href="https://www.wesleyhon.com/atom.xml"/>
@@ -28,6 +28,10 @@ A pig in a cage on antibiotics.&lt;/subtitle&gt;</subtitle>
 <li>翻译佶屈聱牙，故弄玄虚。</li>
 <li><a href="https://www.goodreads.com/book/show/14142.The_Art_of_Loving">Erich Fromm - The Art of Loving</a></li>
 </ul>
+ <!-- more --> 
+<ol>
+<li>现代资本主需要大规模协调合作的人，需要消费胃口越来越大的人，需要<strong>趣味标准化、容易受影响、需求容易预测</strong>的人。现代资本主义社会需要人感到自由和独立，而不依附于任何权威、原则或良心——然而又是愿意被支配，愿意做期望他们做的事情，愿意<strong>毫无摩擦地适应这个社会</strong>；需要不用强力而能支配，没有领袖也能领导，毫无目的也能鼓动——只想获得成就、忙碌、起作用或继续生活的人。</li>
+</ol>
 ]]></content>
     </entry>
 </feed>
