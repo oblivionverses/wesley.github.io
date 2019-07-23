@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wesleyhon.com</id>
-    <title>the Loudest Murmurs | 大声细语</title>
-    <updated>2019-07-23T04:16:48.592Z</updated>
+    <title>the Loudest Murmurs | 大聲細語</title>
+    <updated>2019-07-23T04:18:06.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.wesleyhon.com"/>
     <link rel="self" href="https://www.wesleyhon.com/atom.xml"/>
@@ -10,5 +10,5 @@
 A pig in a cage on antibiotics.</subtitle>
     <logo>https://www.wesleyhon.com/images/avatar.png</logo>
     <icon>https://www.wesleyhon.com/favicon.ico</icon>
-    <rights>All rights reserved 2019, the Loudest Murmurs | 大声细语</rights>
+    <rights>All rights reserved 2019, the Loudest Murmurs | 大聲細語</rights>
 </feed>
